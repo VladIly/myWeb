@@ -2,46 +2,24 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Facts
 
-Let's discover **Docusaurus in less than 5 minutes**.
+1. Kvass, so beloved by Ukrainians in the hot summer, is traditionally considered our oldest drink! The first mention of it was found in a document dated 989.
 
-## Getting Started
+2. Vodka is not considered the first among alcoholic beverages. It appeared only in the 14th century, while mead was known even in pre-Christian times.
 
-Get started by **creating a new site**.
+3. Beer, as in other European countries, was first brewed here by... monks! It was consumed even during fasting.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+4. As many as 30 ingredients are part of the usual borscht!
 
-### What you'll need
+5. Pork lard surpasses butter in terms of the amount of fatty acids necessary for the human body in its composition.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+6. Do you think that we only have dumplings with cherries, cabbage or potatoes? Not at all! Ukrainian housewives fill them with mushrooms, beans, pumpkin, and even pineapples.
 
-## Generate a new site
+7. Our traditional kulish has been recognized as one of the excellent means for the prevention of oncological diseases.
 
-Generate a new Docusaurus site using the **classic template**.
+8. The type of pastry, which has become established in our country under the foreign name "doughnuts", was previously called "slaston". This dish is mentioned in the "Aeneid" of I. Kotlyarevsky, written at the end of the 18th century.
 
-The classic template will automatically be added to your project after you run the command:
+9. Potatoes, which are so often used in our cooking, appeared in Ukraine only 300 years ago. More traditional are onions and garlic (our ancestors used them to supplement dishes 2,500 years ago), cabbage, turnips and cucumbers.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+10. According to the list compiled by tourists from all over the world in the Yonderbound community, Ukrainian cuisine is among the top ten tastiest, sandwiched between Japanese and Chinese culinary traditions.
