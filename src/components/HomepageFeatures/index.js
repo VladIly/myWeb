@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Fact 1 ',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        The taste of dishes prepared from flour has been known for a long time, because our ancestors began to grow millet, wheat and barley about 5000 years ago. Rye appeared a little later - about 1000 years ago.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Fact 2',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Buckwheat porridge, one of the most common dishes on our table, appeared thanks to the trade routes that passed through our lands at that time.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Fact 3',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+       Although sunflowers appeared on the territory of Ukraine only in the 18th century, vegetable oils have been known (together with animal oil, in particular pork oil) for a long time.
       </>
     ),
   },
